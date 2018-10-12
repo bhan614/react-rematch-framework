@@ -36,7 +36,7 @@ const config = {
             secure: false
           },
           '/processFlow': {
-            'target': 'http://hdic-gather.basic-off.lianjia.com',
+            'target': '/',
             'changeOrigin': true,
             'secure': false
           }
